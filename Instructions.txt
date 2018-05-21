@@ -1,0 +1,27 @@
+/*  Instructions Manual */
+
+Build Tool:  Intellij 2018
+
+Step 1: Configure setting
+
+- Select JDK 1.8
+- Language Java 8
+
+Step 2: Import Project 
+
+- Import Project by specifying the Path 
+
+Step 3: Set Source, Path and Dependencies
+
+- File -> Modules -> Sources (Select src folder as Sources and test folder as Tests from Menu) 
+- Select Path as (Use module Compile output Path) 
+- Select Dependency Junit4 if its unchecked
+
+Setup 4: Build
+
+- Select Build from upper top menu
+
+Step 5: Run Test suits by choosing Run All test or simply Run
+
+
+  
